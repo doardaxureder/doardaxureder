@@ -1,7 +1,9 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=A0522D&height=120&section=header"/>
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=ff91a4&size=35&center=true&vCenter=true&width=1000&lines=Seja+Bem-Vindo!;Informática+para+a+Internet)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=8B4513&size=35&center=true&vCenter=true&width=1000&lines=Seja+Bem-Vindo!;IFRS+Informática+para+a+Internet+2/4)](https://git.io/typing-svg)
+
+![Schroeder's GitHub stats](https://github-readme-stats.vercel.app/api?username=doardaxureder&show_icons=true&theme=transparent)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
