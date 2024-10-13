@@ -1,7 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=A0522D&height=120&section=header"/>
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=8B4513&size=35&center=true&vCenter=true&width=1000&lines=Seja+Bem-Vindo!;IFRS+Informática+para+a+Internet+2/4)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=8B4513&size=35&center=true&vCenter=true&width=1000&lines=Seja+Bem-Vindo!;IFRS+Informática+para+a+Internet+3/4)](https://git.io/typing-svg)
 
 ![Schroeder's GitHub stats](https://github-readme-stats.vercel.app/api?username=doardaxureder&show_icons=true&theme=transparent)
 
